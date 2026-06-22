@@ -614,6 +614,7 @@ fv
 
 .system__flow-text:first-of-type {
     margin-top: 0;
+    font-size: 1.4rem;
 }
 
 .system__flow-bold {
